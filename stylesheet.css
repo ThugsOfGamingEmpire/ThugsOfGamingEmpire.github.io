@@ -82,7 +82,7 @@ letter-spacing: 1px;
 color: #bc8fcf;
 }
 
-div h3{
+div h2{
   text-align: center;
   font-size: 70px;
   color: white;
@@ -212,3 +212,49 @@ div h3{
   position: absolute;
   size: 100px;
  }
+
+.footer{
+  background-color: #82827D;
+  margin-bottom:0px;
+  margin-top:20px;
+
+}
+
+.play-button{
+  background-color: #FF0000;
+  height:100px;
+  width:400px;
+}
+
+.theBlindEye{
+  background-color: white;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  position: relative;
+  left: 50%;
+  top:50%;
+  margin-left: -100px;
+  margin-top: -100px;
+  overflow: hidden;
+}
+
+.theBlindPupil{
+  background-color: black;
+  width:50px;
+  height: 50px;
+  border-radius: 50%;
+  position:absolute;
+  left: 50%;
+  top:50%;
+  margin-left: -25px;
+  margin-top: -25px;
+}
+
+.eye1{
+  margin-left:-200px;
+}
+
+.eye2{
+  margin-left:0px;
+}
